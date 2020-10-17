@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* Header styling*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero Stylings*/ 
 .hero {
     height: 800px;
     width: 100%;
@@ -68,13 +69,14 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* CONSOLIDATE Header*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Table Stylings...lead, brand, cost should all be consolidated */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +135,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*CONSOLIDATE Header and tags (seo, orm, and smm)*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -160,7 +162,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* images*/
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -172,7 +174,7 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* CONSOLIDATE h2 for header */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -187,7 +189,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Footer Styling */
 .footer {
     padding: 30px;
     clear: both;
