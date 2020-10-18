@@ -8,24 +8,24 @@ body {
     background-color: #d9dcd6;
 }
 
-/* Hero Stylings*/ 
-.hero {
+/* Nav Stylings*/ 
+.nav {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.hero h1 {
+.nav h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.hero h1 .seo {
+.nav h1 .seo {
     color: #d9dcd6;
 }
 
-.hero div {
+.nav div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,17 +33,17 @@ body {
     font-size: 20px;
 }
 
-.hero div ul {
+.nav div ul {
     list-style-type: none;
 }
 
-.hero div ul li {
+.nav div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/* Header styling*/
-.header {
+/* hero stylings */
+.header-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -51,7 +51,7 @@ body {
     background-size: cover;
     background-position: center;
 }
-
+/* Header styling*/
 .content {
     width: 75%;
     display: inline-block;
