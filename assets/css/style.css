@@ -42,7 +42,7 @@ body {
     margin-left: 25px;
 }
 
-/* hero stylings */
+/* Hero stylings */
 .header-image {
     height: 800px;
     width: 100%;
@@ -102,7 +102,7 @@ p {
     font-size: 16px;
 }
 
-/* Table Stylings...lead, brand, cost should all be consolidated */
+/* User Benefits Stylings...lead, brand, cost should all be consolidated */
 .benefits {
     margin-right: 20px;
     padding: 20px;
